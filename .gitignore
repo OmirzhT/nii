@@ -1,5 +1,9 @@
-# Object file
-*.o
+# Created by https://www.toptal.com/developers/gitignore/api/ssh
+# Edit at https://www.toptal.com/developers/gitignore?templates=ssh
 
-# Ada Library Information
-*.ali
+### SSH ###
+**/.ssh/id_*
+**/.ssh/*_id_*
+**/.ssh/known_hosts
+
+# End of https://www.toptal.com/developers/gitignore/api/ssh
